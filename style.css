@@ -1,0 +1,41 @@
+body{
+    background-color: #EF4F4F;
+    margin: 0%;
+    color: white;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fruits{
+    text-align: left;
+}
+th{
+    text-align: left;
+}
+.nav{
+    text-align: center;
+    width: 80px;
+    text-transform: uppercase;
+    
+}
+.image{
+    text-align: center;
+    
+}
+.apple{
+    width: 50%;
+}
+h1{
+    width: 40%;
+}
+.bottom-table{
+    position: absolute;
+    top: 500px;
+}
+.bottom{
+    text-align: center;
+    height: 100px;
+}
+.img2{
+    width:100px;
+    height:
+}
